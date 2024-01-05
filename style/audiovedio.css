@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin-top: 25px;
+    text-align: center;
+}
+.AV{
+    width: 150vh;
+    height: 80vh;
+    border: 25px solid rgb(134, 228, 228);
+    border-radius: 15px;
+    box-shadow: 9px 9px 9px 9px rgb(71, 70, 70);
+    text-align: center;
+    margin: 45px auto 0;
+    padding: 0 10%;
+}
+audio{
+    margin-top: 25px;
+}
+video{
+    /* display: inline; */
+    margin-top: 30px;
+}
+iframe{
+    padding-left: 20px;
+}
