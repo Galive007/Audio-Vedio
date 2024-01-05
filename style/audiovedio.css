@@ -19,9 +19,9 @@ h1{
 audio{
     margin-top: 25px;
 }
-video{
+.Video{
     /* display: inline; */
-    margin-top: 30px;
+    margin: 40px 0;
 }
 iframe{
     padding-left: 20px;
